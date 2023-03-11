@@ -1,0 +1,24 @@
+C:\Users\Lenovo\Desktop\Login_System\bin\Debug\Login_System.exe.config
+C:\Users\Lenovo\Desktop\Login_System\bin\Debug\Login_System.exe
+C:\Users\Lenovo\Desktop\Login_System\bin\Debug\Login_System.pdb
+C:\Users\Lenovo\Desktop\Login_System\obj\Debug\Login_System.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Login_System\obj\Debug\Login_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Login_System\obj\Debug\Login_System.Form1.resources
+C:\Users\Lenovo\Desktop\Login_System\obj\Debug\Login_System.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Login_System\obj\Debug\Login_System.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Login_System\obj\Debug\Login_System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Login_System\obj\Debug\Login_System.exe
+C:\Users\Lenovo\Desktop\Login_System\obj\Debug\Login_System.pdb
+C:\Users\Lenovo\Desktop\Login_System\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\Login_System\obj\Debug\Login_System.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\bin\Debug\Login_System.exe.config
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\bin\Debug\Login_System.exe
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\bin\Debug\Login_System.pdb
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\obj\Debug\Login_System.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\obj\Debug\Login_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\obj\Debug\Login_System.Form1.resources
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\obj\Debug\Login_System.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\obj\Debug\Login_System.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\obj\Debug\Login_System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\obj\Debug\Login_System.exe
+C:\Users\Lenovo\Desktop\IT SOURCECODE\Login_System\obj\Debug\Login_System.pdb
